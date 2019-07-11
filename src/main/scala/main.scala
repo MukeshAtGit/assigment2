@@ -7,7 +7,6 @@ object main {
     val area1 = new Area
     area1.area("rectangle",10,12,)
 
-
   }
 
 }
