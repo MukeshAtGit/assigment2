@@ -4,8 +4,8 @@ object main {
 
     val fibo = new Fibo
     fibo.mukku()
-    val area1 = new Area
-    area1.area("rectangle",10,12,)
+    val area2= new Area
+    print(area2.area1("rectangle",10,12))
 
   }
 
