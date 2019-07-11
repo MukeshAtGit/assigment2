@@ -5,7 +5,9 @@ object main {
     val fibo = new Fibo
     fibo.mukku()
     val area2= new Area
-    print(area2.area1("rectangle",10,12))
+    println(area2.area1("rectangle",10,12))
+  val sum1=new Sum
+    println(sum1.sum("square",11,12))
 
   }
 
