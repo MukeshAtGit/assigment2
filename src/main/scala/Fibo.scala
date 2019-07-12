@@ -1,6 +1,6 @@
 
 class Fibo {
-  def mukku(elementIndex:Int=5): Unit = {
+  def fibo(elementIndex:Int=5): Unit = {
 
     val lst=List[Int]()
 
